@@ -1,0 +1,3 @@
+Avoiding merge conflicts..
+If any conflict occur we can manually merge commits by running (git rebase --continue) to replay local commits or we can tell git
+to always rebase when pulling with (git config branch.master.rebase true)
